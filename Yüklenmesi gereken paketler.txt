@@ -1,0 +1,9 @@
+
+MaskedTextBox.0.1.3
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+AjaxControlToolkit.19.1.0
+
+.net framework 4.7.2 de yapıldı.
+
+Yukarıdaki paketleri yükleyerek deneyin lütfen yoksa bir çok özellik çalışmayacaktır.
+Proje dosyası 20mb'dan büyük olduğu için gönderemedim dilerseniz derste gösterebilirim.
